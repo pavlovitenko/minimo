@@ -1,0 +1,43 @@
+.main {
+    margin: 50px 0px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    width: 90%;
+    height: 600px;
+    background-image: url("https://picsum.photos/1400/800?random=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.property {
+    margin: 50px 150px;
+}
+
+.s12>h1,
+h6,
+p {
+    margin: 0px;
+}
+
+.email {
+    background-color: rgb(219, 225, 227);
+    text-align: center;
+}
+
+#email {
+    width: 600px;
+}
+
+.margin-left {
+    margin-left: 70px;
+}
+
+.margin-right {
+    margin-right: 70px;
+}
